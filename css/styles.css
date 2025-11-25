@@ -151,7 +151,7 @@ body {
     font-family: Delius;
 }
 
-#navbuttonb{
+#navbutton{
     background-color:#f4e5e1;
     padding: 15px;
     border-radius: 15px;
@@ -163,7 +163,7 @@ body {
     font-family: Nunito;
 }
 
-#navbuttonb:hover{
+#navbutton:hover{
     background-color: #f8beae;
 }
 
@@ -181,7 +181,6 @@ body {
 
 .nunito-nuns {
   font-family: "Nunito", sans-serif;
-  font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
 }
@@ -301,5 +300,4 @@ body {
     .footer a {
         align-self: center;
     }
-
 }
