@@ -151,7 +151,7 @@ body {
     font-family: Delius;
 }
 
-#navbutton{
+.navbutton{
     background-color:#f4e5e1;
     padding: 15px;
     border-radius: 15px;
@@ -163,7 +163,7 @@ body {
     font-family: Nunito;
 }
 
-#navbutton:hover{
+.navbutton:hover{
     background-color: #f8beae;
 }
 
@@ -301,3 +301,4 @@ body {
         align-self: center;
     }
 }
+
