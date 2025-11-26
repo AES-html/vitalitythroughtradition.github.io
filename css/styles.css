@@ -246,7 +246,7 @@ body {
     .contactform textarea,
     #contactb {
         display: block;  
-        width: 100%;    
+        width: 120%;    
         max-width: 500px;     
         box-sizing: border-box;  
         margin: 0 auto;          
@@ -331,6 +331,7 @@ body {
         justify-content: center;
     }
 }
+
 
 
 
