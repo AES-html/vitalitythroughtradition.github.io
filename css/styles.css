@@ -254,6 +254,7 @@ body {
 
 
     #contactb {
+        display:block;
         width: 100%;
         max-width: 500px;
         padding: 12px 0;
@@ -339,5 +340,6 @@ body {
         justify-content: center;
     }
 }
+
 
 
