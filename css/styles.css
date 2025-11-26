@@ -227,6 +227,19 @@ body {
     font-family: Delius;
 }
 
+.footer a {
+  font-size: 1rem;
+  color: blue;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.footer a:hover {
+  background-color: #9b7e7b; 
+}
+
+
+
 @media screen and (min-width: 850px){
     .navbar{
         display: flex;
@@ -235,6 +248,7 @@ body {
         flex-direction: row;
         justify-content: space-between;
         margin-right: 10px;
+        margin-left: 10px;
     }
     
     .navbar h3{
@@ -300,5 +314,9 @@ body {
     .footer a {
         align-self: center;
     }
-}
 
+    .mainc{
+        display: flex;
+        justify-content: center;
+    }
+}
