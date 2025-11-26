@@ -242,23 +242,14 @@ body {
 
 @media screen and (min-width: 850px){
 
-.contactform input,
-.contactform textarea {
-  width: 100%;       
-  max-width: 500px; 
-  height: 45px; 
-  padding: 10px;
-  font-size: 1rem;
-  box-sizing: border-box; 
-}
-
-
+    .contactform input,
+    .contactform textarea,
     #contactb {
-        display:block;
-        width: 100%;
-        max-width: 500px;
-        padding: 12px 0;
-        box-sizing: border-box;
+        display: block;  
+        width: 100%;    
+        max-width: 500px;     
+        box-sizing: border-box;  
+        margin: 0 auto;          
     }
 
     .navbar{
@@ -340,6 +331,7 @@ body {
         justify-content: center;
     }
 }
+
 
 
 
